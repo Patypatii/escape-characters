@@ -1,0 +1,15 @@
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\bin\Debug\net9.0\escape-characters.exe
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\bin\Debug\net9.0\escape-characters.deps.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\bin\Debug\net9.0\escape-characters.runtimeconfig.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\bin\Debug\net9.0\escape-characters.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\bin\Debug\net9.0\escape-characters.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.AssemblyInfoInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.AssemblyInfo.cs
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.csproj.CoreCompileInputs.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.sourcelink.json
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\refint\escape-characters.dll
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.pdb
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\escape-characters.genruntimeconfig.cache
+C:\Users\patri\Desktop\C# AND DOTNET\CsharpProjects\escape-characters\obj\Debug\net9.0\ref\escape-characters.dll
